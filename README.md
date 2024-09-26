@@ -11,4 +11,5 @@ A detailed analysis of content ratings to highlight the distribution of viewer p
 <br>
 Genre classification across the entire catalog to explore the diversity of content on the platform.
 <br>
+<br>
 I built this dashboard by gathering and cleaning the data, followed by data modeling and creating various visualizations to represent these insights. This project demonstrates my ability to work with Power BI for data analysis and visualization.
