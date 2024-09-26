@@ -1,7 +1,9 @@
 # Amazon-Prime-Video-Dashboard
 I developed this Power BI dashboard to analyze Amazon Prime Video's content catalog globally.
 <br>
+<br>
 The dashboard showcases:
+<br>
 <br>
 The total number of movies and TV shows available around the world.
 <br>
